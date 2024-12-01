@@ -1,0 +1,13 @@
+
+1) step of pushing changes 
+
+
+git status  ( check local repository changes )
+git add . ( all changes ready to commit )
+git commit -m "Your Comment "
+git push (changes push )
+
+2) git clone step
+
+git clone <repositary URL>
+
